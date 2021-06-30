@@ -1,4 +1,4 @@
-package collections
+package gcollections
 
 import (
 	"github.com/stretchr/testify/assert"

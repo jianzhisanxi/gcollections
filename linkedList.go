@@ -1,7 +1,7 @@
 // Copyright tizz98 The Go Authors. All rights reserved.
 // Github https://github.com/tizz98/go-playground/tree/master/linkedlist
 
-package collections
+package gcollections
 
 type LinkedNode struct {
 	pre   *LinkedNode
